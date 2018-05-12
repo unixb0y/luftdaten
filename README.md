@@ -1,5 +1,5 @@
 # luftdaten
-My version of the luftdaten.info fine dust sensor
+My version of the [luftdaten.info](luftdaten.info) fine dust sensor
 
 I first tried using a 3d printed case, but then found a pretty perfectly sized lunchbox that had a semi-transparent lid which I really liked.  
 So I went with that for the outer case and then on the inside mounted both the sensor itself and the MCU on a little 3d printed part so it all stays together nicely.
